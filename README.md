@@ -1,5 +1,8 @@
-## Hi there 👋
+## Olá! Eu sou a Emanuelly 👋
 
+- Cursando Tec em Desenvolvimento de Sistemas
+- Cursando Tec em PCP
+  
 <!--
 **emanuellym/emanuellym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
